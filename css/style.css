@@ -1,0 +1,194 @@
+
+.offer {
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 0.76em;
+}
+ul li {
+    font-size: 0.8em;
+}
+.fa-solid {
+    font-size: 1.4em;
+}
+li {
+    margin-left: 3px !important;
+    margin-right: 3px !important;
+}
+.login{
+    padding: 5px 8px 5px 8px;
+    
+}
+.parallax {
+    /* The image used */
+    background-image: url("https://media.istockphoto.com/id/1292038829/photo/laptop-computer-with-blue-pink-lighting-and-blank-screen-place-on-dark-background-3d.jpg?b=1&s=170667a&w=0&k=20&c=XPhuSPxXHKjRhVMSWZVHBGeLHj8jhpcVqqHqVGYurW8=");
+  
+    /* Set a specific height */
+    min-height: 520px; 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+ .heading {
+    color: wheat;
+    padding-top: 100px;
+    padding-left: 100px;
+    font-size: 1.8em;
+    font-weight: bold;
+ }
+
+ .amount {
+    color: wheat;
+    padding-left: 100px;
+    padding-top: 8px;
+    font-size: 1.2em;
+ }
+ .btn {
+    padding: 8px 8px 8px 8px;
+
+ }
+ .btn1 {
+    outline: none !important;
+    border: none !important;
+    color: white;
+    margin-left: 100px;
+    font-size: 0.8em;
+    padding: 5px 8px 5px 8px;
+ }
+
+ .btn1:hover {
+    background-color: white !important;
+    color: rgb(38, 134, 134) !important;
+    padding-left: 14px;
+    padding-right: 14px;
+    outline: none !important;
+    border: none !important;
+ }
+
+ .parallax2 {
+     /* The image used */
+     background-image: url("https://cdn.pixabay.com/photo/2016/09/15/20/47/headphone-1672628__480.jpg");
+  
+    /* Set a specific height */
+    min-height: 600px; 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+ 
+
+  .btn2 {
+    
+    color: white;
+    font-size: 0.8em;
+ }
+
+ .btn2:hover {
+   background-color: white !important;
+   color: rgb(38, 134, 134) !important;
+   padding-left: 14px;
+   padding-right: 14px;
+  
+}
+
+ .heading1 {
+    color: wheat;
+    
+    padding-left: 40px;
+    font-size: 1.8em;
+ }
+
+ .cont {
+    padding-top: 100px;
+ }
+ .amount1 {
+    color: wheat;
+    padding-left: 40px;
+    padding-top: 8px;
+    font-size: 1.2em;
+ }
+ .card-ceo {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+  }
+  
+.badge-long {
+    padding: 8px 18px 8px 18px;
+}
+
+.fa-gear , .fa-cube , .fa-bolt , .fa-truck{
+    font-size: 2em;
+}
+
+body  {
+   background-color: rgba(245, 243, 243, 0.562);
+}
+.card {
+   border: none;
+}
+.card-img-top{
+   transform: scale(0.8);
+ }
+ .card-img-top:hover{
+   transform: scale(0.95);
+ }
+ .card-img-top , img {
+   transition: transform .8s ease;
+ }
+ .badge-long{
+   transition: transform .8s ease;
+ }
+ .badge-long:hover {
+   transform: scale(1.05);
+ }
+
+ .btn3 {
+    padding: 5px 45px 5px 45px;
+   color: white;
+   font-size: 1em;
+}
+
+.btn3:hover {
+  background-color: white !important;
+  color: rgb(38, 134, 134) !important;
+  padding-left: 50px;
+  padding-right: 50px;
+ 
+}
+
+.parallax3 {
+   /* The image used */
+   background-image: url("https://images.unsplash.com/photo-1434494817513-cc112a976e36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHNtYXJ0JTIwd2F0Y2h8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60");
+
+  /* Set a specific height */
+  min-height: 450px; 
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.heading2 {
+   color: wheat;
+   padding-top: 100px;
+   padding-left: 100px;
+   font-size: 1.8em;
+   font-weight: bold;
+}
+
+.amount2 {
+   color: wheat;
+   padding-left: 100px;
+   padding-top: 8px;
+   font-size: 1.2em;
+}
+
+
