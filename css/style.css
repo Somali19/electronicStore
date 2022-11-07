@@ -191,4 +191,9 @@ body  {
    font-size: 1.2em;
 }
 
-
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
